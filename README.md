@@ -1,24 +1,27 @@
-<h1 align="center">Hi there 👋,<br/> I'm Dawson Samuel Yaw</h1>
+<h2 align="center">Hi there 👋, <br/> I'm Dawson Samuel Yaw</h2>
 
-A passionate software developer from Ghana
+<p>A passionate software developer from Ghana</p>
 
----
-👀 I’m interested in **AI, Machine Learning, Frontend Development, and solving real-world problems using technology**.
+<hr>
 
-🔭 I’m currently working on **a marketplace project** for the Church of Pentecost and a **pharmacist’s product management platform**.
+<p>👀 I’m interested in <strong>AI, Machine Learning, Frontend Development, and solving real-world problems using technology</strong>.</p>
 
-🌱 I’m currently learning **React, TypeScript, Python, and advanced frontend development techniques**.
+<p>🔭 I’m currently working on <strong>a marketplace project</strong> for the Church of Pentecost and a <strong>pharmacist’s product management platform</strong>.</p>
 
-💞️ I’m looking to collaborate on AI-driven web applications, innovative frontend solutions, and open-source projects.
+<p>🌱 I’m currently learning <strong>React, TypeScript, Python, and advanced frontend development techniques</strong>.</p>
 
-💬 Ask me about **AI, Machine Learning, React, Node.js, TypeScript, Firebase, or anything related to web development**.
+<p>💞️ I’m looking to collaborate on AI-driven web applications, innovative frontend solutions, and open-source projects.</p>
 
-⚡ Fun fact: I’m passionate about empowering small businesses and exploring ways AI can transform various industries like healthcare and education!
+<p>💬 Ask me about <strong>AI, Machine Learning, React, Node.js, TypeScript, Firebase, or anything related to web development</strong>.</p>
 
----
+<p>⚡ Fun fact: I’m passionate about empowering small businesses and exploring ways AI can transform various industries like healthcare and education!</p>
 
-### ⚒️ Languages-Frameworks-Tools ⚒️
+<hr>
 
-- **Languages**: JavaScript, TypeScript, Python, PHP  
-- **Frameworks**: React, Bootstrap, Express  
-- **Tools**: Git, VS Code, XAMPP, Vite, MySQL  
+<h3>⚒️ Languages-Frameworks-Tools ⚒️</h3>
+
+<ul>
+  <li><strong>Languages</strong>: JavaScript, TypeScript, Python, PHP</li>
+  <li><strong>Frameworks</strong>: React, Bootstrap, Express</li>
+  <li><strong>Tools</strong>: Git, VS Code, XAMPP, Vite, MySQL</li>
+</ul>
