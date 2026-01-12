@@ -12,7 +12,7 @@
 
 <p>💞️ I’m looking to collaborate on AI-driven web applications, innovative frontend solutions, and open-source projects.</p>
 
-<p>💬 Ask me about <strong>AI, Machine Learning, React, Node.js, TypeScript, Firebase, or anything related to web development</strong>.</p>
+<p>💬 Ask me about <strong>AI, Machine Learning, React, Node.js, or anything related to web development</strong>.</p>
 
 <p>⚡ Fun fact: I’m passionate about empowering small businesses and exploring ways AI can transform various industries like healthcare and education!</p>
 
